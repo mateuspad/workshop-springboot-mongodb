@@ -10,13 +10,13 @@
 + Referências
 + Realizar consultas com Spring Data e MongoRepository
 
-## Domain Model:
+## Modelo de Domínio:
 ![modelo de dominio](https://user-images.githubusercontent.com/81187261/220808036-de763940-fe06-4cb3-8053-9708c48fd41f.png)
 
-## Domain Instance:
+## Modelo de Instância:
 ![modelo de instancia](https://user-images.githubusercontent.com/81187261/220808096-adba35ad-5b56-44b8-9629-399b8b463b1b.png)
 
-## Logical Layers:
+## Camadas Lógicas:
 ![Camada logica](https://user-images.githubusercontent.com/81187261/220808116-fd1b3aec-2d0c-4723-b350-9f38b28c6ca0.png)
 
 ## Agregado:
